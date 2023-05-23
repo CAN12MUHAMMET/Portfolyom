@@ -1,0 +1,28 @@
+.custom-dark-effect {
+    
+    height: 200px;
+    width: 200px;
+    clip-path: circle(50% at 50%);
+  }
+ 
+  .icon-item{
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border: 1px solid grey;
+    cursor: pointer;
+   
+    
+  }
+  .mainx {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+  }
+  
+  .no-dot{
+    list-style-type: none;
+  }

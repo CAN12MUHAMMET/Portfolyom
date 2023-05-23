@@ -1,0 +1,44 @@
+.bs-light-border-subtle {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    padding: 8px;
+    background-color: rgb(108,117,125);
+   
+  }
+  .scrool {
+    overflow-y: scroll;
+    height: 440px;
+  }
+  .cardCV{
+    border-radius: 20px;
+  }
+  .imgCV{
+    border-radius: 40px;
+    border: 6px solid rgb(14, 13, 13);
+   height: 200px;
+   
+  }
+  .p{
+    background-color: #f9f9f6;
+    border: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  .bg-x{
+    background-color: #fff;
+  }
+ .tiitle{
+  background-color:#636468;
+ }
+ .bgzx{
+  background-color:#1B205B;
+ }
+ .btncolor{
+  background-color: #1B205B;
+  color: white;
+
+ }
+.btncolor:hover{
+  border: 2px solid #1B205B;
+  color: #1B205B;
+}
+  
